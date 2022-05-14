@@ -16,7 +16,7 @@
 - Trying to comeup with an insight based on Graph Outcomes Based on Goals. It is visually difficult to read the story and could be confussing.
 
 ## Results
-- It is recommended the play launch date is picked from May to July preferably. These months show the highest numbers of successful plays  (**above 80%**), and also the highest ratios successful/failed.
+- It is recommended the play launch date is picked from May to July, preferably. These months show the highest numbers of successful plays  (**above 80%**), and also the highest ratios successful/failed.
 - Launches in February, April and August tend to have the same successfull rate around mid 70%. They might be options to consider.
 - In the event the play has to be launched in the last quarter of the year, October seems to be the preferable month to pick. However, this month also shows the second worst ratio successful/failed after December,so it is risky.
 - It is advised to **avoid** launch dates from November to January following year. 
