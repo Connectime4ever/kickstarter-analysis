@@ -22,7 +22,7 @@
 - It is advised to **avoid** launch dates from November to January following year. 
 - Campaigns with goals less than $1000 shows higher percentage of success while campaigns with goals set higher than $45000 tend to be the least successful.               
 ### Limitations of this dataset
-- As this dataset is only for one year it is not sure if it is showing a reliable seasonality pattern of success based on launch dates. It might need necessary to look into the trend of other years to be sure that the seasonality is consistent, and if there are any extraordinary situations affecting the monthly performance. 
+- As this dataset is only for one year it is not sure if it is showing a reliable seasonality pattern of success based on launch dates. It might be necessary to look into the trend of other years to be sure that the seasonality is consistent, and if there are no extraordinary situations affecting the monthly performance. 
 - It would be interesting to know what is the rate of pledges actually collected in plays subcategory. This migth be helpful to tune a play campaign goal.
 ### Other possible tables and/or graph that we could create. 
 - The pivot table above referenced in "Challenges and Difficulties Encountered" could be helpful to ease the process and assure accuracy.
