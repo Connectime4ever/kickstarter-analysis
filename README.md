@@ -1,10 +1,28 @@
 # An Analysis of Kickstarter Campaigns
 ## Overview of Project
-### Performing analysis on Kickstarter data to uncover trends
+### Performing analysis on Kickstarter data to uncover trends bringing some insights, for the playwright of the play "Fever", about the relationship between the launch date of a play and its outcomes and the funding goals set for a campaign and its outcome. 
 ## Analysis and Challenges
-This is a test. Can I make changes here? I would like to see if this really works
--- Example 1
-* Example 2
-### Analysis of Outcomes Based on Launch Date, Analysis of Outcomes Based on Goals, Challenges and Difficulties Encountered
+### Analysis of Outcomes Based on Launch Dates
+    * May tends to be the most successull launch date followed by June and July.
+    * Launches in February, April and August tend to have the same successfull rate.
+    * The worst month to pick a launch date seems to be December, followed by November and January.
+    * In event the play has to be launch in the last quater of the year October seems to be the preferable month to pick. However, this month also show the highest failed rate. 
+![Outcomes_ Based_ on_ Goals](https://github.com/Connectime4ever/kickstarter-analysis/blob/main/resources/Outcomes%20Based%20on%20Goal.png)
+
+
+### Analysis of Outcomes Based on Goals
+
+https://github.com/Connectime4ever/kickstarter-analysis/blob/main/resources/Theater%20Outcomes%20Based%20on%20Launch%20Date.png
+
+### Challenges and Difficulties Encountered
+    * fdsagsdagdsa
+
 ## Results
-### What are two conclusions you can draw about the Outcomes based on Launch Date? What can you conclude about the Outcomes based on Goals? What are some limitations of this dataset? What are some other possible tables and/or graphs that wa could create?
+- The playwriht should try to launch the play any month from May to July preferably. 
+- To avoid lauch dates from November to January following year. 
+-  
+
+### Limitations of this dataset
+#### As this dataset is only for one year we do not know we are not sure if it shows a fair seasonality.  There might be some extraordinary situations affecting the performance based the launch dates in the year of this dataset that might be distorting the seasonality pattern.  We would need to look at the trend of other years too. 
+
+### Other possible tables/graph going more in depth in the analysis. 
