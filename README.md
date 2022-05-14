@@ -11,7 +11,7 @@
 ![Outcomes_ Based_ on_ Goals](https://github.com/Connectime4ever/kickstarter-analysis/blob/main/resources/Outcomes%20Based%20on%20Goal.png)
 
 ### Challenges and Difficulties Encountered
-### In the instruction number 4 of Deliverable 2 it was opted to create a pivot table which simplifies the filtering needed to apply function COUNTIFS. Please, see Sheet Notes (Kickstarter Challenge)(https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FConnectime4ever%2Fkickstarter-analysis%2Fmain%2FKickstarter_Challenge.xlsx&wdOrigin=BROWSELINK)
+###### In the instruction number 4 of Deliverable 2 it was opted to create a pivot table which simplifies the filtering needed to apply function COUNTIFS.  (Please see "Sheet Notes" in Kickstater Challenge for reference)(https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FConnectime4ever%2Fkickstarter-analysis%2Fmain%2FKickstarter_Challenge.xlsx&wdOrigin=BROWSELINK)
 
 
 ## Results
@@ -21,9 +21,9 @@
 - It is advised to **avoid** launch dates from November to January following year. 
 - 
 ---
-### Limitations of this dataset
+#### Limitations of this dataset
 
-#### As this dataset is only for one year we are not sure if it is showing a fair seasonality. We would need to look into the trend of other years to be sure that the seasonality is consistent and extraordinary situations affecting the monthly performance can be discarted. 
+###### As this dataset is only for one year we are not sure if it is showing a fair seasonality. We would need to look into the trend of other years to be sure that the seasonality is consistent and extraordinary situations affecting the monthly performance can be discarted. 
 
 ---
-### Other possible tables/graph going more in depth in the analysis. 
+#### Other possible tables/graph going more in depth in the analysis. 
